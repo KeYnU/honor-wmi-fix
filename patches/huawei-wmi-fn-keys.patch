@@ -1,0 +1,15 @@
+--- a/huawei-wmi.c
++++ b/huawei-wmi.c
+@@ -146,11 +146,11 @@ static const struct key_entry huawei_wmi_keymap[] = {
+ 	{ KE_KEY,     0x288,              { KEY_CAMERA_ACCESS_TOGGLE } },
+ 	{ KE_KEY,     0x289,              { KEY_WLAN } },
+ 	// Huawei |M| key
+-	{ KE_KEY,     0x28a,              { KEY_CONTROLPANEL } },
++	{ KE_KEY,     0x28a,              { KEY_MAIL } },
+ 	// Sidebar (notifications) key
+-	{ KE_KEY,     0x28b,              { KEY_NOTIFICATION_CENTER } },
+-	{ KE_KEY,     0x28e,              { KEY_SELECTIVE_SCREENSHOT } },
++	{ KE_KEY,     0x28b,              { KEY_CALC } },
++	{ KE_KEY,     0x28e,              { KEY_DOCUMENTS } },
+ 	// Keyboard backlight (F-keys)
+ 	{ KE_IGNORE,  KBDLIGHT_KEY_0,     { KEY_KBDILLUMTOGGLE } },
