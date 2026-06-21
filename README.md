@@ -155,11 +155,11 @@ Shortcut -> Command/URL. When recording the key combo, press the
 F-key - it should now show up as `Mail`, `Calculator`, or
 `Documents`.
 
-Current setup:
+Mine current setup:
 
 | Key | Action |
 |---|---|
-| F10 | Happ (proxy) |
+| F10 | V2rayN |
 | F11 | KDE Connect |
 | F12 | Spectacle (screenshot) - overrides the old default `KEY_SELECTIVE_SCREENSHOT`/`Print` binding |
 
