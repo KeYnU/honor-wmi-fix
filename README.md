@@ -7,8 +7,8 @@ rebound to custom shortcuts, plus a working workaround for F8
 ## Environment
 
 - CachyOS Linux (Arch-based)
-- Kernel `7.0.12-1-cachyos`
-- KDE Plasma 6.7.0 (Wayland)
+- Kernel `7.1.1-2-cachyos`
+- KDE Plasma 6.7.1 (Wayland)
 - AMD Ryzen 7 8845HS / Radeon 780M
 - Driver: `huawei-wmi-dkms-git` (fork of aymanbagabas/Huawei-WMI), version `3.4`
   - not the in-tree kernel module. This dkms version already handles
