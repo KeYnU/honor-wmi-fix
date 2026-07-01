@@ -337,3 +337,10 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
+
+
+## License
+
+This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](LICENSE) file for details.
+
+The patch included in this repository is a derivative work based on the [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) upstream driver development repository.
