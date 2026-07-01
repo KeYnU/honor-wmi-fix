@@ -1,4 +1,10 @@
 #!/bin/bash
+#
+# Camera Toggle Workaround for HONOR MagicBook
+# Copyright (C) 2026 KeYnU <https://github.com/KeYnU>
+#
+# Licensed under the GNU General Public License v2.0.
+#
 # F8 (camera) workaround: this key never generates an ACPI/WMI event
 # on this model (confirmed via acpi_listen - see README, "F8 / camera"
 # section). Bind this to Meta+F8 in System Settings -> Shortcuts.
